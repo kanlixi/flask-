@@ -102,7 +102,7 @@ def get_email_captcha():
 
 @bp.route("/mail/test")
 def mail_test():
-    message= Message(subject="邮箱测试",recipients=["2270366261@qq.com"],body="您的验证码是")
+    message= Message(subject="邮箱测试",recipients=["XXXXXXXXX@qq.com"],body="您的验证码是")
     mail.send(message)
     return "邮件发送成功"
 
