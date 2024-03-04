@@ -20,7 +20,7 @@ DB_URI=f'mysql+pymysql://{USERNAME}:{PASSWORD}@{HOSTNAME}:{PORT}/{DATABASE}?char
 
 SQLALCHEMY_DATABASE_URI=DB_URI
 
-#pgcfrvmniocmdgdb
+
 #邮箱配置
 MAIL_SERVER='smtp.qq.com'#smtp.163.com
 MAIL_USE_SSL=True#加密
