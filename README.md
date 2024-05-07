@@ -6,4 +6,7 @@
 
 [欢迎来到 Flask 的世界 &#8212; Flask中文文档(2.3.x)](https://dormousehole.readthedocs.io/en/latest/)
 
-
+pdf部分包括http，css,javascript,flask等学习资料，使用的软件是vscode；
+vscode常用快捷键：
+ctrl+s保存
+ctrl+f查找
